@@ -1,2 +1,2 @@
 # demo-github
-how to use github.
+how to use github.amazing
